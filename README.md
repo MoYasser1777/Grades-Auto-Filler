@@ -1,2 +1,21 @@
-# Grades-Auto-Filler
-Contributed to an image processing project for TAs and Professors, creating an assistant for electronic grade filling andMCQ bubble sheet correction. implementing image processing techniques for accuratescoring based on model answers. Enhanced grading efficiency in educational assessments through proficient handling ofvarious bubble sheet formats.
+# Grades Auto-Filler Client
+
+Welcome to our React project!
+
+## Getting Started
+
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/goushaa/Grades-AutoFiller-Client.git   
+
+2. **Entering Directory:**
+   ```bash
+   cd Grades-AutoFiller-Client
+
+3. **Install Dependancies:**
+   ```bash
+   npm install
+
+4. **Start App:**
+   ```bash
+   npm start    

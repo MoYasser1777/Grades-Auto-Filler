@@ -1,0 +1,11 @@
+imutils
+matplotlib
+numpy
+opencv_python
+openpyxl
+pytesseract
+scikit_image
+scikit_learn
+skimage
+shutil
+pandas
